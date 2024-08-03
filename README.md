@@ -1,0 +1,1 @@
+ Developed an API-integrated website that assists agriculture by showing 5 days weather forcasts using weather API,displaying relevant agriculture news using news API and resolving queries using Wikipedia API.
